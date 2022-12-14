@@ -19,6 +19,7 @@ projection_size = 128
 
 Trained with 0.99 exponential decay teacher forcing schedule
 Using 20 freq_mask_value iid masks for frequency masking data augmentation
+Trained for 180 epochs, best reached at epoch 145
 
 Stages of model training:
 Stage 1 : When starting : TF rate = 1, Dropout disabled, Augmentations disabled
